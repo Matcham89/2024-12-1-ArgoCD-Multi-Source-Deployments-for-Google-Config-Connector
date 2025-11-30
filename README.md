@@ -1,5 +1,5 @@
 ---
-{}
+title: ArgoCD Multi-Source Deployments for Google Config Connector
 ---
 
 <br />
